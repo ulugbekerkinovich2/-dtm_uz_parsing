@@ -1,3 +1,3 @@
 # pip install requirements.txt
 
-# change folder name for saving image into code 
+# change the address to the folder in the code to save the images
