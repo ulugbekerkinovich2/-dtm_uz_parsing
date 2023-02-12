@@ -1,0 +1,577 @@
+[
+  {
+    "university_name": "Andijon davlat chet tillari instituti",
+    "country": "Andijon viloyati",
+    "link": "https://abt.uz/university/andijon-davlat-chet-tillari-instituti"
+  },
+  {
+    "university_name": "Andijon davlat tibbiyot instituti",
+    "country": "Andijon viloyati",
+    "link": "https://abt.uz/university/andijon-tibbiyot-instituti"
+  },
+  {
+    "university_name": "Andijon davlat universiteti",
+    "country": "Andijon viloyati",
+    "link": "https://abt.uz/university/andijon-davlat-universiteti"
+  },
+  {
+    "university_name": "Andijon davlat universitetining Pedagogika instituti",
+    "country": "Andijon viloyati",
+    "link": "https://abt.uz/university/andijon-davlat-universitetining-pedagogika-instituti"
+  },
+  {
+    "university_name": "Andijon iqtisodiyot va qurilish instituti",
+    "country": "Andijon viloyati",
+    "link": "https://abt.uz/university/andijon-iqtisodiyot-va-qurilish-instituti"
+  },
+  {
+    "university_name": "Andijon mashinasozlik instituti",
+    "country": "Andijon viloyati",
+    "link": "https://abt.uz/university/andijon-mashinasozlik-instituti"
+  },
+  {
+    "university_name": "Andijon qishloq xo\u2018jaligi va agrotexnologiyalar instituti",
+    "country": "Andijon viloyati",
+    "link": "https://abt.uz/university/andijon-qishloq-xojaligi-instituti"
+  },
+  {
+    "university_name": "Buxoro davlat tibbiyot instituti",
+    "country": "Buxoro viloyati",
+    "link": "https://abt.uz/university/buxoro-davlat-tibbiyot-instituti"
+  },
+  {
+    "university_name": "Buxoro davlat universiteti",
+    "country": "Buxoro viloyati",
+    "link": "https://abt.uz/university/buxoro-davlat-universiteti"
+  },
+  {
+    "university_name": "Buxoro davlat universitetining Pedagogika instituti",
+    "country": "Buxoro viloyati",
+    "link": "https://abt.uz/university/buxoro-davlat-universitetining-pedagogika-instituti"
+  },
+  {
+    "university_name": "Buxoro muhandislik-texnologiya instituti",
+    "country": "Buxoro viloyati",
+    "link": "https://abt.uz/university/buxoro-muhandislik-texnika-instituti"
+  },
+  {
+    "university_name": "Buxoro tabiiy resurslarni boshqarish instituti",
+    "country": "Buxoro viloyati",
+    "link": "https://abt.uz/university/toshkent-irrigatsiya-va-meliorasiya-instituti-buxoro-filiali"
+  },
+  {
+    "university_name": "Davlat xavfsizlik xizmati akademiyasi",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/davlat-xavfsizlik-xizmati-akademiyasi"
+  },
+  {
+    "university_name": "Farg\u2018ona davlat universiteti",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/fargona-davlat-universiteti"
+  },
+  {
+    "university_name": "Farg\u2018ona jamoat salomatligi tibbiyot instituti",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/toshkent-tibbiyot-akademiyasi-fargona-filiali"
+  },
+  {
+    "university_name": "Farg\u2018ona politexnika instituti",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/fargona-politexnika-instituti"
+  },
+  {
+    "university_name": "Geologiya fanlari universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/geologiya-fanlari-universiteti"
+  },
+  {
+    "university_name": "Guliston davlat universiteti",
+    "country": "Sirdaryo viloyati",
+    "link": "https://abt.uz/university/guliston-davlat-universiteti"
+  },
+  {
+    "university_name": "Ipak yo\u2018li xalqaro turizm universiteti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/ipak-yoli-xalqaro-turizm-universiteti"
+  },
+  {
+    "university_name": "Islom Karimov nomidagi Toshkent davlat texnika universiteti Qo\u02bbqon filiali",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/toshkent-davlat-texnika-universiteti-qo-qon-filiali"
+  },
+  {
+    "university_name": "Jahon iqtisodiyoti va diplomatiya universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/jahon-iqtisodiyoti-va-diplomatiya-universiteti"
+  },
+  {
+    "university_name": "Jamoat xavfsizligi universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/jamoat-xavfsizligi-universiteti"
+  },
+  {
+    "university_name": "Jizzax davlat pedagogika instituti",
+    "country": "Jizzax viloyati",
+    "link": "https://abt.uz/university/jizzax-davlat-pedagogika-instituti"
+  },
+  {
+    "university_name": "Jizzax politexnika instituti",
+    "country": "Jizzax viloyati",
+    "link": "https://abt.uz/university/jizzax-politexnika-instituti"
+  },
+  {
+    "university_name": "Milliy estrada san\u2019ati instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/botir-zokirov-nomidagi-milliy-estrada-oliy-maktabi"
+  },
+  {
+    "university_name": "Milliy rassomlik va dizayn instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/milliy-rassomlik-va-dizayn-instituti"
+  },
+  {
+    "university_name": "Mirzo Ulug\u2018bek nomidagi O\u2018zbekiston milliy universiteti Jizzax filiali",
+    "country": "Jizzax viloyati",
+    "link": "https://abt.uz/university/ozbekiston-milliy-universiteti-jizzax-filiali"
+  },
+  {
+    "university_name": "Namangan davlat chet tillari instituti",
+    "country": "Namangan viloyati",
+    "link": "https://abt.uz/university/namangan-davlat-chet-tillari-instituti"
+  },
+  {
+    "university_name": "Namangan davlat universiteti",
+    "country": "Namangan viloyati",
+    "link": "https://abt.uz/university/namangan-davlat-universiteti"
+  },
+  {
+    "university_name": "Namangan muhandislik-qurilish instituti",
+    "country": "Namangan viloyati",
+    "link": "https://abt.uz/university/namangan-muhandislik-pedagogika-instituti"
+  },
+  {
+    "university_name": "Namangan muhandislik-texnologiya instituti",
+    "country": "Namangan viloyati",
+    "link": "https://abt.uz/university/namangan-muhandislik-texnologiya-instituti"
+  },
+  {
+    "university_name": "Navoiy davlat konchilik va texnologiyalar universiteti",
+    "country": "Navoiy viloyati",
+    "link": "https://abt.uz/university/navoiy-davlat-konchilik-instituti"
+  },
+  {
+    "university_name": "Navoiy davlat pedagogika instituti",
+    "country": "Navoiy viloyati",
+    "link": "https://abt.uz/university/navoiy-davlat-pedagogika-instituti"
+  },
+  {
+    "university_name": "Nukus davlat pedagogika instituti",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/nukus-davlat-pedagogika-instituti"
+  },
+  {
+    "university_name": "Nukus konchilik instituti",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/navoiy-davlat-konchilik-instituti-nukus-filiali"
+  },
+  {
+    "university_name": "O\u02bbzbekiston davlat xoreografiya akademiyasi Urganch filiali",
+    "country": "Xorazm viloyati",
+    "link": "https://abt.uz/university/o-zbekiston-davlat-xoreografiya-akademiyasi-urganch-filiali"
+  },
+  {
+    "university_name": "O\u2018zbek milliy musiqa san\u02bcati instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/yunus-rajabiy-nomidagi-ozbek-milliy-musiqa-san-ati-instituti"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat jahon tillari universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/ozbekiston-davlat-jahon-tillari-universiteti"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat jismoniy tarbiya va sport universiteti",
+    "country": "Toshkent viloyati",
+    "link": "https://abt.uz/university/ozbekiston-davlat-jismoniy-tarbiya-instituti"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat jismoniy tarbiya va sport universiteti Nukus filiali",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/o-zbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti-nukus-filiali"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat konservatoriyasi",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/ozbekiston-davlat-konservatoriyasi"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat konservatoriyasi Nukus filiali",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/ozbekiston-davlat-konservatoriyasi-nukus-filiali"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat san\u02bcat va madaniyat institutining Farg\u2018ona mintaqaviy filiali",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/ozbekiston-davlat-sanat-va-madaniyat-institutining-fargona-mintaqaviy-filiali"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat san\u2019at va madaniyat instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/ozbekiston-davlat-san-at-va-madaniyat-instituti"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat san\u2019at va madaniyat instituti Nukus filiali",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/ozbekiston-davlat-san-at-va-madaniyat-instituti-nukus-filiali"
+  },
+  {
+    "university_name": "O\u2018zbekiston davlat xoreografiya akademiyasi",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/milliy-raqs-va-xoreografiya-oliy-maktabi"
+  },
+  {
+    "university_name": "O\u2018zbekiston jurnalistika va ommaviy kommunikatsiyalar universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/ozbekiston-jurnalistika-va-ommaviy-kommunikatsiyalar-universiteti"
+  },
+  {
+    "university_name": "O\u2018zbekiston milliy universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/ozbekiston-milliy-universiteti"
+  },
+  {
+    "university_name": "O\u2018zbekiston Respublikasi Davlat soliq qo\u2018mitasi huzuridagi Fiskal institut",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/ozbekiston-respublikasi-davlat-soliq-qomitasi-huzuridagi-fiskal-institut"
+  },
+  {
+    "university_name": "O\u2018zbekiston xalqaro islom akademiyasi",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-islom-universiteti"
+  },
+  {
+    "university_name": "O\u2018zbekiston\u00a0 davlat jismoniy tarbiya va sport universiteti Farg\u2018ona filiali",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/ozbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti-fargona-filiali"
+  },
+  {
+    "university_name": "Qarshi davlat universiteti",
+    "country": "Qashqadaryo viloyati",
+    "link": "https://abt.uz/university/qarshi-davlat-universiteti"
+  },
+  {
+    "university_name": "Qarshi davlat universitetining Pedagogika instituti",
+    "country": "Qashqadaryo viloyati",
+    "link": "https://abt.uz/university/qarshi-davlat-universitetining-pedagogika-instituti"
+  },
+  {
+    "university_name": "Qarshi irrigatsiya va agrotexnologiyalar instituti",
+    "country": "Qashqadaryo viloyati",
+    "link": "https://abt.uz/university/toshkent-irrigatsiya-va-qishloq-xo-jaligini-mexanizatsiyalash-muhandislari-instituti-qarshi-filiali"
+  },
+  {
+    "university_name": "Qarshi muhandislik-iqtisodiyot instituti",
+    "country": "Qashqadaryo viloyati",
+    "link": "https://abt.uz/university/qarshi-muhandislik-iqtisodiyot-instituti"
+  },
+  {
+    "university_name": "Qoraqalpog\u2018iston qishloq xo\u2018jaligi va agrotexnologiyalar instituti",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/toshkent-davlat-agrar-universitetining-nukus-filiali"
+  },
+  {
+    "university_name": "Qoraqalpog\u2018iston tibbiyot instituti",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/toshkent-pediatriya-tibbiyot-institutining-nukus-filiali"
+  },
+  {
+    "university_name": "Qoraqalpoq davlat universiteti",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/qoraqalpoq-davlat-universiteti"
+  },
+  {
+    "university_name": "Qoraqalpoq davlat universiteti Chimboy fakulteti",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/qoraqalpoq-davlat-universiteti-chimboy-fakulteti"
+  },
+  {
+    "university_name": "Qo\u2018qon davlat pedagogika instituti",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/qoqon-davlat-pedagogika-instituti"
+  },
+  {
+    "university_name": "Samarqand davlat arxitektura-qurilish instituti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-arxitektura-qurilish-instituti"
+  },
+  {
+    "university_name": "Samarqand davlat chet tillar instituti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-chet-tillar-instituti"
+  },
+  {
+    "university_name": "Samarqand davlat chet tillar instituti Narpay \u201cXorijiy tillar\u201d fakulteti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-chet-tillar-instituti-narpay-xorijiy-tillar-fakul-teti"
+  },
+  {
+    "university_name": "Samarqand davlat chet tillari instituti Payariq \u201cXorijiy tillar\u201d fakulteti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-chet-tillar-instituti-payariq-xorijiy-tillar-fakul-teti"
+  },
+  {
+    "university_name": "Samarqand davlat tibbiyot universiteti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-tibbiyot-instituti"
+  },
+  {
+    "university_name": "Samarqand davlat universiteti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-universiteti"
+  },
+  {
+    "university_name": "Samarqand davlat universiteti Kattaqo\u2018rg\u2018on filiali",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-universiteti-kattaqorgon-filiali"
+  },
+  {
+    "university_name": "Samarqand davlat universitetining Agrobiotexnologiyalar va oziq-ovqat xavfsizligi instituti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-universitetining-agrobiotexnologiyalar-va-oziq-ovqat-xavfsizligi-instituti"
+  },
+  {
+    "university_name": "Samarqand davlat universitetining Denov tadbirkorlik va pedagogika instituti",
+    "country": "Surxondaryo viloyati",
+    "link": "https://abt.uz/university/termiz-davlat-universitetining-denov-filiali"
+  },
+  {
+    "university_name": "Samarqand davlat universitetining Muhandislik fizikasi instituti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-universitetining-muhandislik-fizikasi-instituti"
+  },
+  {
+    "university_name": "Samarqand davlat universitetining O\u2018zbekiston-Finlyandiya pedagogika instituti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-universitetining-ozbekiston-finlyandiya-pedagogika-instituti"
+  },
+  {
+    "university_name": "Samarqand davlat universitetining Urgut filiali",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-davlat-universitetining-urgut-filiali"
+  },
+  {
+    "university_name": "Samarqand iqtisodiyot va servis instituti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-iqtisodiyot-va-servis-instituti"
+  },
+  {
+    "university_name": "Samarqand veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/samarqand-qishloq-xojalik-instituti"
+  },
+  {
+    "university_name": "Samarqand veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Nukus filiali",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/samarqand-veterinariya-meditsinasi-instituti-nukus-filiali"
+  },
+  {
+    "university_name": "Samarqand veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Toshkent filiali",
+    "country": "Toshkent viloyati",
+    "link": "https://abt.uz/university/samarqand-veterinariya-meditsinasi-instituti-toshkent-filiali"
+  },
+  {
+    "university_name": "Termiz agrotexnologiyalar va innovatsion rivojlanish instituti",
+    "country": "Surxondaryo viloyati",
+    "link": "https://abt.uz/university/toshkent-davlat-agrar-universitetining-termiz-filiali"
+  },
+  {
+    "university_name": "Termiz davlat universiteti",
+    "country": "Surxondaryo viloyati",
+    "link": "https://abt.uz/university/termiz-davlat-universiteti"
+  },
+  {
+    "university_name": "Termiz davlat universitetining Pedagogika instituti",
+    "country": "Surxondaryo viloyati",
+    "link": "https://abt.uz/university/nizomiy-nomidagi-toshkent-davlat-pedagogika-universitetining-termiz-filiali"
+  },
+  {
+    "university_name": "Termiz muhandislik-texnologiya instituti",
+    "country": "Surxondaryo viloyati",
+    "link": "https://abt.uz/university/toshkent-davlat-texnika-universitetining-termiz-filiali"
+  },
+  {
+    "university_name": "Toshkent arxitektura-qurilish instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-arxitektura-qurilish-instituti"
+  },
+  {
+    "university_name": "Toshkent axborot texnologiyalari universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-axborot-texnologiyalari-universiteti"
+  },
+  {
+    "university_name": "Toshkent axborot texnologiyalari universiteti Farg\u2018ona filiali",
+    "country": "Farg\u02bbona viloyati",
+    "link": "https://abt.uz/university/toshkent-axborot-texnologiyalari-universiteti-fargona-filiali"
+  },
+  {
+    "university_name": "Toshkent axborot texnologiyalari universiteti Nukus filiali",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/toshkent-axborot-texnologiyalari-universiteti-nukus-filiali"
+  },
+  {
+    "university_name": "Toshkent axborot texnologiyalari universiteti Nurafshon filiali",
+    "country": "Toshkent viloyati",
+    "link": "https://abt.uz/university/toshkent-axborot-texnologiyalari-universiteti-nurafshon-filiali"
+  },
+  {
+    "university_name": "Toshkent axborot texnologiyalari universiteti Qarshi filiali",
+    "country": "Qashqadaryo viloyati",
+    "link": "https://abt.uz/university/toshkent-axborot-texnologiyalari-universiteti-qarshi-filiali"
+  },
+  {
+    "university_name": "Toshkent axborot texnologiyalari universiteti Samarqand filiali",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/toshkent-axborot-texnologiyalari-universiteti-samarqand-filiali"
+  },
+  {
+    "university_name": "Toshkent axborot texnologiyalari universiteti Urganch filiali",
+    "country": "Xorazm viloyati",
+    "link": "https://abt.uz/university/toshkent-axborot-texnologiyalari-universiteti-urganch-filiali"
+  },
+  {
+    "university_name": "Toshkent davlat agrar universiteti",
+    "country": "Toshkent viloyati",
+    "link": "https://abt.uz/university/toshkent-davlat-agrar-universiteti"
+  },
+  {
+    "university_name": "Toshkent davlat agrar universitetining Samarqand filiali",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/toshkent-davlat-agrar-universitetining-samarqand-filiali"
+  },
+  {
+    "university_name": "Toshkent davlat iqtisodiyot universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-iqtisodiyot-universiteti"
+  },
+  {
+    "university_name": "Toshkent davlat iqtisodiyot universiteti Samarqand filiali",
+    "country": "Samarqand viloyati",
+    "link": "https://abt.uz/university/toshkent-davlat-iqtisodiyot-universiteti-samarqand-filiali"
+  },
+  {
+    "university_name": "Toshkent davlat iqtisodiyot universiteti To\u2018rtko\u2018l fakulteti",
+    "country": "Qoraqalpog\u2018iston Respublikasi",
+    "link": "https://abt.uz/university/toshkent-davlat-iqtisodiyot-universiteti-tortkol-fakulteti"
+  },
+  {
+    "university_name": "Toshkent davlat o\u2018zbek tili va adabiyoti universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-ozbek-tili-va-adabiyoti-universiteti"
+  },
+  {
+    "university_name": "Toshkent davlat pedagogika universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-pedagogika-universiteti"
+  },
+  {
+    "university_name": "Toshkent davlat sharqshunoslik universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-sharqshunoslik-instituti"
+  },
+  {
+    "university_name": "Toshkent davlat stomatologiya instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-stomotologiya-instituti"
+  },
+  {
+    "university_name": "Toshkent davlat texnika universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-texnika-universiteti"
+  },
+  {
+    "university_name": "Toshkent davlat texnika universitetining Olmaliq filiali",
+    "country": "Toshkent viloyati",
+    "link": "https://abt.uz/university/navoiy-davlat-konchilik-institutining-olmaliq-shahridagi-fakulteti"
+  },
+  {
+    "university_name": "Toshkent davlat transport universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-avtomobil-yollari-instituti"
+  },
+  {
+    "university_name": "Toshkent davlat yuridik universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-yuridik-universiteti"
+  },
+  {
+    "university_name": "Toshkent davlat yuridik universiteti Ixtisoslashtirilgan filiali",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-davlat-yuridik-universiteti-ixtisoslashtirilgan-filiali"
+  },
+  {
+    "university_name": "Toshkent farmatsevtika instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-farmasevtika-instituti"
+  },
+  {
+    "university_name": "Toshkent kimyo-texnologiya instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-kimyo-texnologiya-instituti"
+  },
+  {
+    "university_name": "Toshkent kimyo-texnologiya instituti Shahrisabz filiali",
+    "country": "Qashqadaryo viloyati",
+    "link": "https://abt.uz/university/toshkent-kimyo-texnologiya-instituti-shahrisabz-filiali"
+  },
+  {
+    "university_name": "Toshkent kimyo-texnologiya instituti Yangiyer filiali",
+    "country": "Sirdaryo viloyati",
+    "link": "https://abt.uz/university/toshkent-kimyo-texnologiya-instituti-yangiyer-filiali"
+  },
+  {
+    "university_name": "Toshkent moliya instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-moliya-instituti"
+  },
+  {
+    "university_name": "Toshkent pediatriya tibbiyot instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-pediatriya-tibbiyot-instituti"
+  },
+  {
+    "university_name": "Toshkent tibbiyot akademiyasi",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-tibbiyot-akademiyasi"
+  },
+  {
+    "university_name": "Toshkent tibbiyot akademiyasi Urganch filiali",
+    "country": "Xorazm viloyati",
+    "link": "https://abt.uz/university/toshkent-tibbiyot-akademiyasi-urganch-filiali"
+  },
+  {
+    "university_name": "Toshkent tibbiyot akademiyasining Termiz filiali",
+    "country": "Surxondaryo viloyati",
+    "link": "https://abt.uz/university/toshkent-tibbiyot-akademiyasining-termiz-filiali"
+  },
+  {
+    "university_name": "Toshkent to\u2018qimachilik va yengil sanoat instituti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-toqimachilik-va-yengil-sanoat-instituti"
+  },
+  {
+    "university_name": "Toshkent viloyati Chirchiq davlat pedagogika instituti",
+    "country": "Toshkent viloyati",
+    "link": "https://abt.uz/university/toshkent-viloyati-chirchiq-davlat-pedagogika-instituti"
+  },
+  {
+    "university_name": "Urganch davlat universiteti",
+    "country": "Xorazm viloyati",
+    "link": "https://abt.uz/university/urganch-davlat-universiteti"
+  },
+  {
+    "university_name": "\u201cToshkent irrigatsiya va qishloq xo\u2018jaligini mexanizatsiyalash muhandislari instituti\u201d milliy tadqiqot universiteti",
+    "country": "Toshkent shahri",
+    "link": "https://abt.uz/university/toshkent-irrigatsiya-va-melioratsiya-instituti"
+  }
+]

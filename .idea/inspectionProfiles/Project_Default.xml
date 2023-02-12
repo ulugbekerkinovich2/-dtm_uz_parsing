@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="Slowloris" />
+            <item index="1" class="java.lang.String" itemvalue="environs" />
+            <item index="2" class="java.lang.String" itemvalue="asyncpg" />
+            <item index="3" class="java.lang.String" itemvalue="trio-websocket" />
+            <item index="4" class="java.lang.String" itemvalue="cffi" />
+            <item index="5" class="java.lang.String" itemvalue="tzdata" />
+            <item index="6" class="java.lang.String" itemvalue="sniffio" />
+            <item index="7" class="java.lang.String" itemvalue="wsproto" />
+            <item index="8" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="9" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="10" class="java.lang.String" itemvalue="trio" />
+            <item index="11" class="java.lang.String" itemvalue="selenium" />
+            <item index="12" class="java.lang.String" itemvalue="Django" />
+            <item index="13" class="java.lang.String" itemvalue="certifi" />
+            <item index="14" class="java.lang.String" itemvalue="pytz" />
+            <item index="15" class="java.lang.String" itemvalue="urllib3" />
+            <item index="16" class="java.lang.String" itemvalue="pyinstaller" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="basic_app.models.Upload_File" />
+          <option value="loader.db" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
