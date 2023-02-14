@@ -42,10 +42,10 @@ def telebots1(mess, file_path):
 
     # Check if the request was successful
     if response.status_code == 200:
-        telebots('Message and file sent successfully!')
+        # telebots('Message and file sent successfully!')
         print("Message and file sent successfully!")
     else:
-        telebots(f"Failed to send message and file. Response: {response.text}")
+        # telebots(f"Failed to send message and file. Response: {response.text}")
         print(f"Failed to send message and file. Response: {response.text}")
 
     # telebots1(files, file_origin)
