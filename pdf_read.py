@@ -26,7 +26,7 @@ def telebots1(mess, file_path):
     now = datetime.datetime.now()
     now_time = now.strftime("%Y-%m-%d %H:%M:%S")
     # Telegram API endpoint for sending documents
-    endpoint = "https://api.telegram.org/bot2090467761:AAHh3xty_m8W7TuiIGs_49zUUJM22pLUdbk/sendDocument"
+    endpoint = "https://api.telegram.org/bot{token}/sendDocument"
 
     # Define the chat ID and message text
     chat_id = "" # input your gorup chatID
