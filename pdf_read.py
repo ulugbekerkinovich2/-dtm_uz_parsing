@@ -15,11 +15,11 @@ import requests
 
 # write the dataframe to an excel file
 # df.to_excel('example5.xlsx', index=False)
-
+token = input('input your token: ')
 
 def telebots(mess):
     requests.get(
-        url=f"https://api.telegram.org/bot5082135962:AAFeaNW1dtleNNM4DDPBnvpC7XdtTZ687mo/sendMessage?chat_id=935920479&parse_mode=HTML&text={mess}")
+        url=f"https://api.telegram.org/bot{token}/sendMessage?chat_id=935920479&parse_mode=HTML&text={mess}")
 
 
 def telebots1(mess, file_path):
