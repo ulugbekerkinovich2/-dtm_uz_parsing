@@ -5,7 +5,3 @@
 # change token for bot in file pdf_read.py
 
 # change group id in file pdf_read.py
-
-
-
-
