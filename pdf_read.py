@@ -29,7 +29,7 @@ def telebots1(mess, file_path):
     endpoint = "https://api.telegram.org/bot2090467761:AAHh3xty_m8W7TuiIGs_49zUUJM22pLUdbk/sendDocument"
 
     # Define the chat ID and message text
-    chat_id = "-1001816056115"
+    chat_id = "" # input your gorup chatID
     message = {"chat_id": chat_id, "caption": mess, "parse_mode": "HTML"}
 
     # Read the file content and add it to the request
