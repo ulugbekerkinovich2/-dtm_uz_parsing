@@ -163,7 +163,7 @@ def dtm():
             uni = universitet.find_element(By.TAG_NAME, 'td').find_element(By.TAG_NAME, 'a').text
             time.sleep(1.5)
             print(uni)
-            sheet1.write(count, 0, kontarkt)
+            #sheet1.write(count, 0, kontarkt)
 
 
             uni_link = universitet.find_element(By.TAG_NAME, 'td').find_element(By.TAG_NAME, 'a').get_attribute('href')
