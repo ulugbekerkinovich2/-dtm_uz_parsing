@@ -6,49 +6,29 @@ from selenium_stealth import stealth
 
 options = webdriver.ChromeOptions()
 options.add_argument("start-maximized")
-
+# Agar fon rejimida ishga tushurmoqchi bo‘lsang:
 # options.add_argument("--headless")
+
 
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
-driver = webdriver.Chrome(options=options,
-                          executable_path=r"D:\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe")
+
+driver = webdriver.Chrome(options=options)
 
 stealth(driver,
         languages=["en-US", "en"],
         vendor="Google Inc.",
-        platform="Win32",
-        webgl_vendor="Intel Inc.",
-        renderer="Intel Iris OpenGL Engine",
+        platform="MacIntel",
+        webgl_vendor="Apple Inc.",
+        renderer="Apple M3",
         fix_hairline=True,
         )
+
 
 data = []
 
 array = []
-"""
-{
-    "universitet": "Buxoro davlat universiteti",
-    "country": "Buxoro viloyati",
-    "education_language": 1,
-    "education_type": 1,
-    "shtrix_code": "61010313 / Kasbiy (ijodiy) imtihon / Kasbiy (ijodiy) imtihon ",
-    "direction_name": "Sport faoliyati: dzyudo\n61010313 / Kasbiy (ijodiy) imtihon / Kasbiy (ijodiy) imtihon",
-    "kvota": "2 / 13",
-    "grant_ball": "173.6",
-    "kontrakt_ball": "72.3"
-    
-    "direction_id": 117,
-    "university_name": "Andijon davlat chet tillari instituti",
-    "direction_name": "Filologiya va tillarni o‘qitish: ingliz tili",
-    "education_language_id": 1,
-    "education_type_id": 1,
-    "grant_quota": 10,
-    "contract_quota": 15,
-    "grant": 174.1,
-    "contract": 159.1
-    },
-"""
+
 
 
 
@@ -115,6 +95,10 @@ def modify_data(file_name):
                 'contract': contract
             }
 
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 def dtm():
 
@@ -124,12 +108,14 @@ def dtm():
     # with open('DATA_23.json', 'r', encoding='utf-8') as f:
     #     data_23 = json.load(f)
     # all_universits = {i['universitet'] for i in data_23}
-    for universitet in all_univers:
+    for universitet in all_univers[21:22]:
+        with open("DATA1_24-8.json", 'w', encoding='utf-8') as f:
+            json.dump(array, f, indent=4, ensure_ascii=False)
         try:
 
             uni = universitet.find_element(By.TAG_NAME, 'td').find_element(By.TAG_NAME, 'a').text
             time.sleep(0.5)
-            print(uni)
+            print(132, uni)
 
             # if uni in all_universits:
             #     continue
@@ -139,40 +125,54 @@ def dtm():
             country = universitet.find_element(By.TAG_NAME, 'td').find_element(By.TAG_NAME, 'div').text
             time.sleep(0.3)
             print(uni)
-            print(country)
-            print(uni_link)
+            # print(country)
+            print(167, uni_link)
             time.sleep(0.4)
             driver.execute_script("window.open();")
+            # time.sleep(2)
             driver.switch_to.window(driver.window_handles[-1])
+            
             driver.get(uni_link)
+            
             time.sleep(0.2)
-            for k in range(1, 5):
+            for k in range(1, 4):
+                # print(k)
+
+                # path_edu = f"/html/body/div[1]/article[2]/div/div[1]/div[1]/div[2]/div/a[{k}]"
+                # print(path_edu)
                 try:
                     talim_shakli = driver.find_element(By.XPATH,
-                                                       f'/html/body/div[2]/article[2]/div/div[1]/div[2]/div/div[3]/div/a[{k}]')
+                                                       f'/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[3]/div/a[{k}]')
+                    "/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[3]/div/a[1]"
+                    "/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[3]/div/a[2]"
+                    "/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[3]/div/a[3]"
                     talim_shakli_text = driver.find_element(By.XPATH,
-                                                            f'/html/body/div[2]/article[2]/div/div[1]/div[2]/div/div[3]/div/a[{k}]') \
+                                                            f'/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[3]/div/a[{k}]') \
                         .get_attribute('textContent')
                     talim_shakli.click()
                     print(f"\n----{talim_shakli_text}----")
+                    time.sleep(1)
+                    # break
                     for i in range(1, 8):
                         try:
                             talim_tili = driver.find_element(By.XPATH,
-                                                             f'/html/body/div[2]/article[2]/div/div[1]/div[2]/div/div[2]/div/a[{i}]')
+                                                             f'/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[2]/div/a[{i}]')
+                            "/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[2]/div/a[1]"
+                            "/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[2]/div/a[2]"
                             talim_tili_text = driver.find_element(By.XPATH,
-                                                                  f'/html/body/div[2]/article[2]/div/div[1]/div[2]/div/div[2]/div/a[{i}]').text
+                                                                  f'/html/body/div[1]/article[2]/div/div[1]/div[2]/div/div[2]/div/a[{i}]').text
                             talim_tili.click()
                             print(f"\n----{talim_tili_text}----")
                             t_yonalish = driver.find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
 
                             for yonalish in t_yonalish:
                                 try:
-                                    time.sleep(3)
+                                    # time.sleep(2)
                                     shtrix_code = str(
                                         yonalish.find_elements(By.TAG_NAME, 'td')[0].find_element(By.TAG_NAME,
                                                                                                   'div').get_attribute(
                                             'textContent'))
-                                    time.sleep(1)
+                                    time.sleep(0.6)
 
                                     nomi = str(
                                         yonalish.find_elements(By.TAG_NAME, 'td')[0].find_element(By.TAG_NAME,
@@ -514,12 +514,14 @@ def dtm():
 
                         except:
                             print('Bunday ta\'lim tili mavjud emas')
+                            with open("DATA1_24-8.json", 'w', encoding='utf-8') as f:
+                                json.dump(array, f, indent=4, ensure_ascii=False)
                             continue
-                except:
-                    print('---ta\'lim shakli mavjud emas')
+                except Exception as e:
+                    print(e)
                     continue
-        except:
-            print('uni , uni_link topilmadi')
+        except Exception as e:
+            print(e)
             continue
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
@@ -527,6 +529,6 @@ def dtm():
 
 
 dtm()
-jsons = dtm()
-with open("DATA1_23-1.json", 'w', encoding='utf-8') as f:
-    json.dump(jsons, f, indent=4, ensure_ascii=False)
+# jsons = dtm()
+# with open("DATA1_24-1.json", 'w', encoding='utf-8') as f:
+#     json.dump(jsons, f, indent=4, ensure_ascii=False)
